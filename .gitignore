@@ -1,0 +1,13 @@
+build/
+build-wasm/
+emsdk/
+test_lexer
+test_parser
+test_nfa
+test_dfa
+__pycache__/
+*.o
+*.a
+*.so
+.vscode/
+.DS_Store
